@@ -1,6 +1,6 @@
-# ML4SCI Hackathon Submission
+# ML4SCI Submission
 
-Welcome to my submission for the ML4SCI Hackathon! This repository contains the complete workflow and solutions for two major tasks, packaged into a fully reproducible and documented setup.
+Welcome to my submission for ML4SCI! This repository contains the complete workflow and solutions for two major tasks, packaged into a fully reproducible and documented setup.
 
 ## Tasks & Deliverables
 

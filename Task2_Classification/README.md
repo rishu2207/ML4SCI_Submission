@@ -194,7 +194,7 @@ LensingCNN (Total Parameters: 582,019)
 ```
 dataset/
 ├── README.md                              # This file
-├── Classification.ipynb                   # Unified Jupyter Notebook for Hackathon Submission
+├── Classification.ipynb                   # Unified Jupyter Notebook for Submission
 ├── train/                                 # Training data (30,000 images)
 │   ├── no/                                #   10,000 .npy files
 │   ├── sphere/                            #   10,000 .npy files
