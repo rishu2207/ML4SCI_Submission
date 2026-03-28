@@ -1,0 +1,15 @@
+# Dataset directories (Too large for GitHub)
+train/
+val/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter/Notebooks cache
+.ipynb_checkpoints/
